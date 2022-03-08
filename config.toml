@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://heilpraxis-traeuble.github.io/"
 languageCode = "de-de"
 title = "Naturheilpraxis Träuble"
 theme = "alpha-church"
