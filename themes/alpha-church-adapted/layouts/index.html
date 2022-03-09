@@ -17,6 +17,16 @@
 							<h2>{{ .Params.Services.title }}</h2><a name="services"></a>
 							<p>{{ .Params.Services.text | markdownify }}</p>
 						</header>
+						{{ $methods := .Params.Services.method }}
+						{{ if (len $methods) }}
+							{{ .Params.Services.method_title | markdownify }}
+							<ul>
+								{{ range $index, $key := $methods}}
+									<li>{{ $key.text | markdownify }}</li>
+								{{ end }}
+							</ul>
+						{{ end }}
+
 						{{ partial "map" . }}
 					</section>
 					{{ end }}

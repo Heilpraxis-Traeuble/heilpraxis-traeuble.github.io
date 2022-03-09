@@ -17,16 +17,16 @@ enableInlineShortcodes = true
 
 #This theme can generate a multi-level menu.
 #Use weight= to specify the order of menu items, and parent= to create a submenu item.
-[menu]
-  [[menu.main]]
-    name = "Übersicht"
-    url = "/"
-    weight = 1
-
-  [[menu.main]]
-    name = "Über mich"
-    url = "/about"
-    weight = 2
+# [menu]
+#   [[menu.main]]
+#     name = "Übersicht"
+#     url = "/"
+#     weight = 1
+# 
+#   [[menu.main]]
+#     name = "Über mich"
+#     url = "/about"
+#     weight = 2
 
 # Paramaters for the whole site
 [params]
