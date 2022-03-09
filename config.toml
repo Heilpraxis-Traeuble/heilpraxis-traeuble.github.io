@@ -1,7 +1,7 @@
 baseURL = "https://heilpraxis-traeuble.github.io/"
 languageCode = "de-de"
 title = "Naturheilpraxis Träuble"
-theme = "alpha-church"
+theme = "alpha-church-adapted"
 
 rssLimit = 5
 paginate = 4
@@ -45,7 +45,7 @@ enableInlineShortcodes = true
     #lge = "example96.png"
 
   [params.banner]
-    image = "/img/header_blatt.jpg"
+    image = "/img/banner_blatt.jpg"
 
 #  [params.style]
 #    googleFonts = ["Cardo", "Crimson+Text", "Merriweather", "Playfair+Display:400,700", "Roboto+Slab"]
