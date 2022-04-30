@@ -10,7 +10,7 @@ Schwabstraße 11<br>
 
 Telefon: 07031 607029<br>
 Fax: 07031 607011<br>
-eMail: [traeuble@t-online.de](mailto:traeuble@t-online.de?subject=Anfrage%20Praxis)
+E-Mail: [traeuble@t-online.de](mailto:traeuble@t-online.de?subject=Anfrage%20Praxis)
 
 **Termine nach Vereinbarung**
 
