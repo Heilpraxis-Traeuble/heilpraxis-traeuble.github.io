@@ -3,8 +3,6 @@ title: "Impressum"
 subtitle: ""
 draft: false
 ---
-# Impressum
-
 **Name der Praxis:** Träuble<br>
 **Straße:** Schwabstraße 11<br>
 **PLZ/Ort:** 71088 Holzgerlingen<br>
